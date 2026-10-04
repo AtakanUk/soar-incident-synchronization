@@ -1,0 +1,4 @@
+resilient
+requests
+# only for the SOAR app function in soar_app/
+resilient-circuits
